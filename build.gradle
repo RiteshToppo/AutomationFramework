@@ -137,6 +137,9 @@ compile 'org.testng:testng:6.11'
 
 // https://mvnrepository.com/artifact/net.sourceforge.jexcelapi/jxl
 compile 'net.sourceforge.jexcelapi:jxl:2.6.12'
+// https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-server
+compile group: 'org.seleniumhq.selenium', name: 'selenium-server', version: '2.42.2'
+
 
  implementation('org.apache.commons:commons-collections4:4.1')
  //implementation('org.apache.common:commons-lang3:3.3.1')
